@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raqueldsmattos@gmail.com
+	name = Raquel Mattos
